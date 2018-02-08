@@ -30,6 +30,7 @@ fabric.properties
 #PMSF
 /.sass-cache/
 /node_modules/
+/vendor/
 config/*
 !config/example.config.php
 !config/default.php
