@@ -1,0 +1,12 @@
+{
+    "name": "naji/pmsf",
+    "authors": [
+        {
+            "name": "Naji Astier",
+            "email": "naji.demolitionman@gmail.com"
+        }
+    ],
+    "require": {
+        "team-reflex/oauth2-discord": "^1.0"
+    }
+}

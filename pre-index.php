@@ -16,6 +16,7 @@ if (!empty($_GET['lat']) && !empty($_GET['lon'])) {
 if ($blockIframe) {
     header('X-Frame-Options: DENY');
 }
+include('discord.php');
 ?>
 <!DOCTYPE html>
 <html lang="<?= $locale ?>">

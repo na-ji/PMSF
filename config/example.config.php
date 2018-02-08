@@ -232,6 +232,20 @@ $purgeData = 0;
 $enableDebug = false;
 
 //-----------------------------------------------------
+// DISCORD
+//-----------------------------------------------------
+
+$enableDiscordAuth = false;
+// discord client id
+$discordClientId = '';
+// discord client secret
+$discordClientSecret = '';
+// discord redirect URL
+$discordRedirectUrl = '';
+// discord server ID
+$discordServerId = '';
+
+//-----------------------------------------------------
 // DATABASE CONFIG
 //-----------------------------------------------------
 
